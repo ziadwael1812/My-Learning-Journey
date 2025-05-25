@@ -18,7 +18,7 @@ I'm passionate about technology and dedicated to continuously expanding my skill
 This section highlights key projects and coursework from my studies.
 
 ### COP2800 - Java Programming
-*   **Repository:** [ziadwael1812/COP2800_Projects](https://github.com/ziadwael1812/COP2800_Projects) *(Consider renaming this repository to something like `COP2800-Java-Coursework` for consistency and updating the link here if you do.)*
+*   **Repository:** [ziadwael1812/COP2800_Projects](https://github.com/ziadwael1812/COP2800_Projects)
 *   **Description:** In this course, I developed a solid foundation in Java programming, focusing on both procedural and object-oriented paradigms. The curriculum covered essential topics such as data types, control structures, methods, classes, inheritance, and exception handling. Through a series of hands-on projects, I applied these concepts to build functional applications. These projects not only enhanced my coding skills but also emphasized the importance of writing clean, maintainable code. The experience laid a strong groundwork for advanced topics in software development.
 *   **Key Projects:**
     *   **Student Grade Management System:** Designed and implemented a console-based application to manage student records, demonstrating proficiency in file I/O operations and data structures.
